@@ -208,16 +208,16 @@ var gitDeployPushOrigin = function(done) {
 
 var generateLevelDocs = function(done) {
   log('Generating level documentation...');
-  
+
   // Get all level files
   const allLevels= require('./src/levels/index');
   const cssContent = readFileSync('./generatedDocs/github-markdown.css');
-  
+
   let htmlContent = `
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Learn Git Branching - Level Documentation</title>
+      <title>Learn Git - Level Documentation</title>
       <style>${cssContent}</style>
       <style>
         body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 40px; }
@@ -230,7 +230,7 @@ var generateLevelDocs = function(done) {
     </head>
     <body>
       <div class="markdown-body">
-        <h1>Learn Git Branching - All Levels Documentation</h1>
+        <h1>Learn Git - All Levels Documentation</h1>
   `;
 
   Object.keys(allLevels.sequenceInfo).forEach(sequenceKey => {

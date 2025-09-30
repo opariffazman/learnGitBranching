@@ -921,7 +921,7 @@ exports.strings = {
   },
   "learn-git-branching": {
     "__desc__": "The title of the app, with spaces",
-    "en_US": "Learn Git Branching",
+    "en_US": "Learn Git",
     "de_DE": "Lerne Git Branching",
     "ja": "日本語版リポジトリ",
     "zh_CN": "学习 Git 分支",
@@ -941,7 +941,7 @@ exports.strings = {
     "pl": "Naucz się Git Branching-u",
     "it_IT": "Impara Git Branching",
     "ta_IN": "கிட் கிளை அமைத்தல்",
-    "tr_TR": "Learn Git Branching(Git Dal Oluşumunu Öğren)"
+    "tr_TR": "Learn Git(Git Dal Oluşumunu Öğren)"
   },
   "select-a-level": {
     "__desc__": "The prompt to select a level on the drop down view",
@@ -1767,18 +1767,18 @@ exports.strings = {
   "help-vague-level": {
     "__desc__": "When you are in a level and you say help, its vague and you need to specify",
     "en_US": "You are in a level, so multiple forms of help are available. Please select either \"help level\" to learn more about this lesson, \"help general\" for using Learn GitBranching, or \"objective\" to learn about how to solve the level.",
-    "de_DE": "Du befindest dich in einem Level, daher gibt es verschiedene Hilfen. Gib \"help level\" ein um mehr über dieses Level zu erfahren, \"help general\" um zu sehen wie Learn Git Branching bedient wird, oder \"objective\" um das Ziel dieses Levels zu erfahren.",
+    "de_DE": "Du befindest dich in einem Level, daher gibt es verschiedene Hilfen. Gib \"help level\" ein um mehr über dieses Level zu erfahren, \"help general\" um zu sehen wie Learn Git bedient wird, oder \"objective\" um das Ziel dieses Levels zu erfahren.",
     "zh_CN": "您正在关卡中，这里有多种形式的帮助，请选择 \"help level\" (关卡帮助)或 \"help general\" (一般帮助)",
     "zh_TW": "您正在進行關卡中，這裡有多種不同型式的幫助，請選擇 \"help level\" 來了解這個關卡，或者是選擇 \"help general\" 來學習如何使用 Learn GitBranching，或者是選擇 \"objective\" 來學習如何解決這個關卡",
     "es_AR": "Estás en un nivel, por lo que hay varios tipos de ayuda. Por favor elegí entre \"help level\" para aprender algo más sobre esta lección, \"help general\" para ayuda sobre el uso de Learn GitBranching, o \"objective\" para aprender a resolver este nivel.",
     "es_MX": "Estás en un nivel, por lo que hay varios tipos de ayuda. Por favor elige entre \"help level\" para aprender algo más sobre ésta lección, \"help general\" para ayuda sobre el uso de Learn GitBranching, o \"bjective\" para aprender a resolver este nivel.",
     "es_ES": "Estás en un nivel, por lo que hay varios tipos de ayuda. Por favor elige \"help level\" para aprender más sobre esta lección, \"help general\" para ayuda sobre el uso de Learn GitBranching, o \"objective\" para aprender a resolver este nivel.",
     "pt_BR": "Você está em um nível, então há vários tipos de ajuda. Selecione \"help level\" para aprender mais sobre esta lição, \"help general\" para aprender a usar o Learn GitBranching, ou \"objective\" ver como resolver o nível.",
-    "gl": "Estás nun nivel, entón hai varios tipos de axuda. Selecione \"help level\" para aprender máis sobre esta lección, \"gelp general\" para aprender a usar o Learn Git Branching, ou \"objective\" para ver como resolver o nivel.",
+    "gl": "Estás nun nivel, entón hai varios tipos de axuda. Selecione \"help level\" para aprender máis sobre esta lección, \"gelp general\" para aprender a usar o Learn Git, ou \"objective\" para ver como resolver o nivel.",
     "fr_FR": "Vous êtes dans un niveau, donc plusieurs formes d'aide sont disponibles. Merci de sélectionner soit \"help level\" pour en apprendre plus sur cette leçon, \"help general\" pour l'utilisation de Learn GitBranching, ou \"objective\" pour apprendre comment résoudre le niveau",
     "ro": "Te afli într-un nivel, deci mai multe forme de ajutor sunt disponibile. Te rog să alegi fie \"help level\" pentru a învăța mai multe despre această lecție, \"help general\" pentru a învăța cum să folosești Learn GitBranching, sau \"objective\" pentru a învăța cum să rezolvi acest nivel.",
     "ru_RU": "При прохождении уровня доступны несколько видов помощи. Определить что нужно: \"help level\" чтобы получить информацию об этом уровне, \"help general\" для того, чтобы узнать о игре в целом или \"objective\" чтобы узнать что надо сделать в этом уровне.",
-    "uk": "При проходженні рівня доступні декілька різновидів допомоги. Виберіть або \"help level\" щоб взнати більше про цей рівень, чи \"help general\" щоб взнати більше про Learn Git Branching, чи \"objective\" щоб дізнатись більше про проходження цього рівня",
+    "uk": "При проходженні рівня доступні декілька різновидів допомоги. Виберіть або \"help level\" щоб взнати більше про цей рівень, чи \"help general\" щоб взнати більше про Learn Git, чи \"objective\" щоб дізнатись більше про проходження цього рівня",
     "ko": "현재 레벨에서, 여러가지 도움말을 참고할 수 있습니다. 레슨에 대해 자세히 알아보려면 \"help level\", LearnGitBranching을 사용하려면 \"help general\", 레벨 해결 방법에 대해 알아보려면 \"objective\"를 선택하세요.",
     "vi": "Bạn đang ở trong một cấp độ, nên sẽ có nhiều hỗ trợ. Vui lòng dùng \"help level\" để biết thêm về bài học này, \"help general\" để sử dụng HọcNhánhGit, hoặc \"objective\" để biết cách giải quyết bài tập.",
     "sl_SI": "Si v stopnji, zato so na voljo različne pomoči. Prosim izberi \"help level\" za več informacij o tej lekciji, \"help general\" za splošna navodila ali \"objective\" da izveš kako rešiti to stopnjo",

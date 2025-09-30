@@ -5,10 +5,10 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Welcome to Learn Git Branching',
+        '## Welcome to Learn Git',
         '',
         'Interested in learning Git? Well you\'ve come to the right place! ',
-        '"Learn Git Branching" is the most visual and interactive way to learn Git ',
+        '"Learn Git" is the most visual and interactive way to learn Git ',
         'on the web; you\'ll be challenged with exciting levels, given step-by-step ',
         'demonstrations of powerful features, and maybe even have a bit of fun along the way.',
         '',
@@ -24,7 +24,7 @@ exports.dialog = {
         '',
         'PPS: GitHub has started naming the default branch `main` instead of `master` ',
         'to migrate away from biased terminology [(more details available here)](https://github.com/github/renaming). ',
-        'In accordance with this industry-wide movement, we have also updated "Learn Git Branching" to ',
+        'In accordance with this industry-wide movement, we have also updated "Learn Git" to ',
         'use `main` instead of `master` in our lessons. This rename should be fairly consistent by ',
         'now but if you notice any errors, feel free to submit a PR (or open an issue).'
       ]
@@ -34,7 +34,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## ¡Te damos la bienvenida a Learn Git Branching!',
+        '## ¡Te damos la bienvenida a Learn Git!',
         '',
         'Esta aplicación está diseñada para ayudar a los principiantes ',
         'a manejar los poderosos conceptos que hay detrás del trabajo ',
@@ -90,7 +90,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## ¡Bienvenid@ a Learn Git Branching!',
+        '## ¡Bienvenid@ a Learn Git!',
         '',
         'Esta aplicación está diseñada para ayudar a los principiantes',
         'a manejar los poderosos conceptos que hay detrás del trabajo',
@@ -146,7 +146,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## ¡Bienvenid@ a Learn Git Branching!',
+        '## ¡Bienvenid@ a Learn Git!',
         '',
         'Esta aplicación está diseñada para ayudar a los principiantes ',
         'a manejar los poderosos conceptos que hay detrás del trabajo ',
@@ -202,7 +202,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Bem-vindo ao Learn Git Branching!',
+        '## Bem-vindo ao Learn Git!',
         '',
         'Este aplicativo foi desenvolvido para ajudar os iniciantes a ',
         'aprender os poderosos conceitos por trás do branching com ',
@@ -258,7 +258,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Benvido a Learn Git Branching!',
+        '## Benvido a Learn Git!',
         '',
         'Esta aplicación foi desenvolvida para axudar os iniciados en git a ',
         'aprender os poderosos conceptos que hai por detrás do branching con ',
@@ -314,7 +314,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Willkommen bei Learn Git Branching!',
+        '## Willkommen bei Learn Git!',
         '',
         'Der Sinn dieser Anwendung ist, die umfangreichen und komplexen Zusammenhänge der Prozesse, die bei der Arbeit mit Git ablaufen, zu verdeutlichen. Ich hoffe du hast Spaß dabei und lernst vielleicht sogar etwas!',
         '',
@@ -367,7 +367,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Learn Git Branchingへようこそ',
+        '## Learn Gitへようこそ',
         '',
         'gitのパワフルなブランチ機能のコンセプトが ',
         '学びやすくなるようにこのアプリケーションを作りました。 ',
@@ -427,7 +427,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## 欢迎光临 Learn Git Branching',
+        '## 欢迎光临 Learn Git',
         '',
         '你对 Git 感兴趣吗？那么算是来对地方了！',
         '“Learning Git Branching” 可以说是目前为止最好的教程了，在沙盒里你能执行相应的命令，还能看到每个命令的执行情况；',
@@ -448,7 +448,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## 歡迎光臨 Learn Git Branching!',
+        '## 歡迎光臨 Learn Git!',
         '',
         '本應用旨在幫助初學者領會 git 分支背後的強大概念。',
         '希望你能喜歡這個應用，並學到知識！',
@@ -503,7 +503,7 @@ exports.dialog = {
         '## Git 브랜치 배우기에 어서오세요!',
         '',
         'Git을 배우고 싶으신가요? 잘 찾아오셨습니다!',
-        '"Learn Git Branching"은 웹에서 Git을 배울 수 있는 가장',
+        '"Learn Git"은 웹에서 Git을 배울 수 있는 가장',
         '시각적이고 인터랙티브한 방법입니다.',
         '',
         '당신은 강력한 기능들에 대한 단계별 데모를 통해 흥미진진한 레벨들에 도전하게 되며,',
@@ -560,7 +560,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Bienvenue sur Learn Git Branching !',
+        '## Bienvenue sur Learn Git !',
         '',
         'Cette application a été conçue pour aider les débutants à saisir ',
         'les puissants concepts derrière les branches en travaillant ',
@@ -582,7 +582,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Quelques commandes utiles `Learn Git Branching`',
+        '## Quelques commandes utiles `Learn Git`',
         '',
         'À tout moment, vous pouvez exécuter les commandes suivantes dans le terminal :',
         '',
@@ -634,10 +634,10 @@ exports.dialog = {
     type: "ModalAlert",
     options: {
       markdowns: [
-        "## Bine ați venit la Learn Git Branching",
+        "## Bine ați venit la Learn Git",
         "",
         "Vrei să înveți Git? Atunci ai ajuns în locul potrivit! ",
-        '"Learn Git Branching" este cea mai vizuală și interactivă modalitate de a învăța Git ',
+        '"Learn Git" este cea mai vizuală și interactivă modalitate de a învăța Git ',
         "pe web; vei fi provocat cu niveluri interesante, vei primi ",
         "demonstrații pas cu pas ale funcțiilor puternice ale Git-ului și poate chiar te vei distra puțin pe parcurs.",
         "",
@@ -653,7 +653,7 @@ exports.dialog = {
         "",
         "P.S.S. GitHub a început să numească ramura implicită `main` în loc de `master` ",
         "pentru a migra de la terminologia învechită [(mai multe detalii disponibile aici)](https://github.com/github/renaming).",
-        "În conformitate cu acest demers la nivel de industrie, am actualizat și noi „Learn Git Branching” pentru ",
+        "În conformitate cu acest demers la nivel de industrie, am actualizat și noi „Learn Git” pentru ",
         "a utiliza `main` în loc de `master` în lecțiile noastre. Această redenumire ar trebui să fie destul de consistentă deja, ",
         "însă dacă observi vreo eroare, nu ezita să trimiți un PR (sau să deschizi o problemă).",
       ],
@@ -719,10 +719,10 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Ласкаво просимо до Learn Git Branching',
+        '## Ласкаво просимо до Learn Git',
         '',
         'Хочеш вивчити Git? Тоді ти знайшов те, що шукав!',
-        '"Learn Git Branching" \u2014 це найбільш візуальний та інтерактивний спосіб вивчення Git в Інтернеті. ',
+        '"Learn Git" \u2014 це найбільш візуальний та інтерактивний спосіб вивчення Git в Інтернеті. ',
         'Ти зможеш проходити захопливі рівні, дивитися ',
         'покрокові інструкції з використання потужних функцій Git, навіть трохи ',
         'розважитись в процесі навчання.',
@@ -772,7 +772,7 @@ exports.dialog = {
         '## Dobrodošel na učenju Git Branchanja',
         '',
         'Bi se rad naučil Git? No, prišel si na pravo mesto! ',
-        '"Learn Git Branching" je najbolj vizualen in interaktiven način učenja Git-a ',
+        '"Learn Git" je najbolj vizualen in interaktiven način učenja Git-a ',
         'na spletu; zagrizel boš v zanimive stopnje, po korakih boš spoznaval osupljive ',
         'funkcije in kaj pa veš, morda ti bo celo zabavno. ;)',
         '',
@@ -792,10 +792,10 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Witaj w Learn Git Branching!',
+        '## Witaj w Learn Git!',
         '',
         'Jesteś zainteresowany nauką Gita? Cóż, trafiłeś we właściwe miejsce!',
-        '"Learn Git Branching" jest najbardziej wizualnym i interaktywnym sposobem na naukę gita w sieci.',
+        '"Learn Git" jest najbardziej wizualnym i interaktywnym sposobem na naukę gita w sieci.',
         'Czekają na Ciebie ekscytujące poziomy, demonstracje zaawansowanych funkcji krok po kroku. Może nawet będziesz się dobrze bawić.',
         '',
         'Po tym oknie dialogowym zobaczysz różnorodność poziomów, które mamy do zaoferowania.',
@@ -807,7 +807,7 @@ exports.dialog = {
         'Chcesz następnym razem przejść prosto do trybu piaskownicy? Kilknij [tutaj](https://pcottle.github.io/learnGitBranching/?locale=pl&NODEMO)',
         '',
         'PS. GitHub zaczął nazywać domyślną gałąź `main` zamiast `master`, aby odejść od tendencyjnej terminologii. [(więcej informacji tutaj)](https://github.com/github/renaming)',,
-        'Zgodnie z tym ogólnobranżowym ruchem, zaktualizowaliśmy również "Learn Git Branching", by używać `main` zamiast `master` w naszych zadaniach.',
+        'Zgodnie z tym ogólnobranżowym ruchem, zaktualizowaliśmy również "Learn Git", by używać `main` zamiast `master` w naszych zadaniach.',
         'Ta zmiana nazwy powinna być już w miarę spójna, ale jeśli zauważysz jakieś błędy, nie krępuj się dodać pull request (lub zgłosić issue na githubie - prawy górny róg).'
       ]
     }
@@ -819,7 +819,7 @@ exports.dialog = {
         '## Git Branching கற்க வரவேற்கிறோம்',
         '',
         'கிட் கற்க ஆர்வமா? அப்படியானால் நீங்கள் சரியான இடத்திற்கு வந்துவிட்டீர்கள்! ',
-        '"Learn Git Branching" Git ஐக் கற்றுக்கொள்வதற்கான வரைபடம் மற்றும் செயல்முறை ',
+        '"Learn Git" Git ஐக் கற்றுக்கொள்வதற்கான வரைபடம் மற்றும் செயல்முறை ',
         'பயிற்சியுடன் கூடிய சிரந்த கருவி; ',
         'உங்களை சோதிக்கும் வகையிலான நிலைகளுடன் மிகுந்த சக்திவாய்ந்த அம்சங்களை ',
         'படிப்படியாகவும், சில சமையம் விளையாட்டாகவும் கற்றுத்தர கூடியது.',
@@ -849,10 +849,10 @@ exports.dialog = {
       type: "ModalAlert",
       options: {
         markdowns: [
-          "## Benvenuto su Learn Git Branching",
+          "## Benvenuto su Learn Git",
           "",
           "Vorresti imparare Git? Bene, sei nel posto giusto! ",
-          '"Learn Git Branching" è il modo più chiaro e interattivo per imparare Git ',
+          '"Learn Git" è il modo più chiaro e interattivo per imparare Git ',
           "su internet; sarai messo alla prova tramite livelli stimolanti, con dimostrazioni ",
           "passo a passo sulle sue potenzialità e, perché no, magari ti divertirai lungo questo percorso.",
           "",
@@ -880,10 +880,10 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Learn Git Branching\'e hoşgeldiniz.',
+        '## Learn Git\'e hoşgeldiniz.',
         '',
         'Git öğrenmeye ilgi duyuyor musunuz? O zaman doğru yerdesiniz!',
-        '"Learn Git Branching," Git\'i öğrenmenin en görsel ve etkileşimli yoludur.',
+        '"Learn Git," Git\'i öğrenmenin en görsel ve etkileşimli yoludur.',
         'web üzerinde; sizi heyecan verici seviyelerle zorlayacak, güçlü özelliklerin adım adım gösterimlerini sunacak',
         've belki de eğlenceli vakit geçirmenizi sağlayacaktır.',
         '',
@@ -899,7 +899,7 @@ exports.dialog = {
         '',
         'Not: GitHub, önyargılı terimlerden uzaklaşmak için varsayılan Branch ismini `master` yerine `main`  ',
         'olarak adlandırmaya başladı [(daha fazla detay için tıklayın)](https://github.com/github/renaming). ',
-        'Biz de sektör genelindeki harekete uygun olarak, "Learn Git Branching" ',
+        'Biz de sektör genelindeki harekete uygun olarak, "Learn Git" ',
         'derslerimizde de `master` yerine `main` kullanımını güncelledik. Bu adlandırmanın ',
         'şu anda oldukça tutarlı olması gerekiyor, ancak herhangi bir hata fark ederseniz,',
         'lütfen bir PR (veya issue) göndermekten çekinmeyin.'

@@ -270,14 +270,14 @@ div.canvasTerminalHolder {
 
 div.gitDemonstrationView > div.visHolder,
 .visBackgroundColor {
-  background: #5cbcfc;
-  background-color: #5cbcfc;
+  background: #5a5aa1;
+  background-color: #5a5aa1;
 }
 
 body.hgMode div.gitDemonstrationView > div.visHolder,
 body.hgMode .visBackgroundColor {
-  background: #5CFCD6;
-  background-color: #5CFCD6;
+  background: #1a1a2e;
+  background-color: #1a1a2e;
 }
 
 #interfaceWrapper {
@@ -331,12 +331,12 @@ div.inside  pre {
 }
 
 #controls {
-  max-width: 400px;
+  max-width: 800px;
 }
 
 div.canvasTerminalHolder > div.terminal-window-holder {
-  max-width: 400px;
-  min-width: 400px;
+  max-width: 800px;
+  min-width: 800px;
   overflow: visible !important;
 }
 
@@ -644,7 +644,7 @@ p.commandLine span.prompt {
 }
 
 #prompt span.commandCursor {
-  background: #424242;
+  background: #000000;
 }
 
 #prompt p.command.showCursor span.commandCursor {
@@ -659,7 +659,7 @@ p.commandLine span.prompt {
 .terminal-window .inside,
 li.rebaseEntry,
 #terminal {
-  background: #424242;
+  background: #000000;
 }
 
 #terminal,
@@ -677,7 +677,7 @@ li.rebaseEntry,
   position: absolute;
   bottom: 0px;
   right: 0px;
-  background: #424242;
+  background: #000000;
   padding: 12px 12px;
   border-radius: 5px 0 0 0;
   border: 2px solid #EFEDEE;

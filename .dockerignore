@@ -1,0 +1,11 @@
+node_modules
+build
+.git
+.github
+__tests__
+*.md
+.gitignore
+.editorconfig
+.jshintrc
+.travis.yml
+.gitpod.yml

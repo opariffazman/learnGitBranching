@@ -277,6 +277,8 @@ var generateLevelDocs = function(done) {
 
 var fastBuild = series(clean, ifyBuild, style, buildIndex, jshint);
 
+var dockerBuild = series(clean, ifyBuild, style, buildIndex);
+
 var build = series(
   clean,
   miniBuild, style, buildIndex,
@@ -311,6 +313,7 @@ module.exports = {
   default: build,
   lint,
   fastBuild,
+  dockerBuild,
   watching,
   build,
   test: jasmine,

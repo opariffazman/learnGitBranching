@@ -3,10 +3,12 @@ FROM node:14.20.0-alpine3.16 as build
 RUN apk add git --no-cache
 WORKDIR "/src"
 
-COPY . /src
-RUN yarn install && \
+COPY package.json yarn.lock ./
+RUN yarn install --frozen-lockfile --ignore-scripts && \
 	yarn cache clean
-RUN	yarn gulp build
+
+COPY . /src
+RUN	yarn gulp dockerBuild
 
 FROM scratch AS export
 WORKDIR /
